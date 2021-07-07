@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dash.wedding/static/css/main.a617e044.chunk.css",
+    "main.js": "/dash.wedding/static/js/main.07955ccb.chunk.js",
+    "main.js.map": "/dash.wedding/static/js/main.07955ccb.chunk.js.map",
+    "runtime-main.js": "/dash.wedding/static/js/runtime-main.ff0ff4d3.js",
+    "runtime-main.js.map": "/dash.wedding/static/js/runtime-main.ff0ff4d3.js.map",
+    "static/js/2.6ba11457.chunk.js": "/dash.wedding/static/js/2.6ba11457.chunk.js",
+    "static/js/2.6ba11457.chunk.js.map": "/dash.wedding/static/js/2.6ba11457.chunk.js.map",
+    "static/js/3.eebe06b1.chunk.js": "/dash.wedding/static/js/3.eebe06b1.chunk.js",
+    "static/js/3.eebe06b1.chunk.js.map": "/dash.wedding/static/js/3.eebe06b1.chunk.js.map",
+    "index.html": "/dash.wedding/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/dash.wedding/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.6ba11457.chunk.js.LICENSE.txt": "/dash.wedding/static/js/2.6ba11457.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/dash.wedding/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff0ff4d3.js",
+    "static/js/2.6ba11457.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.07955ccb.chunk.js"
+  ]
+}
