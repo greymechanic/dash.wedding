@@ -1,23 +1,91 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.scss";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+    <div className="home">
+      <header className="marquee">
+        <div>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+        </div>
       </header>
+      <div className="main">
+        <h2>save the date</h2>
+        <h1>LAUREN & ANDREW ARE GETTING MARRIED</h1>
+        <h2>at their home in berkeley, ca</h2>
+      </div>
+      <footer className="marquee">
+        <div>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+          <p>May 28, 2022</p>
+        </div>
+      </footer>
     </div>
   );
 }

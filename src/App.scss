@@ -1,0 +1,50 @@
+@import "./styles/_fonts.scss";
+@import "./styles/_colors.scss";
+
+body {
+  background-color: $cream-1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.marquee {
+  display: flex;
+  flex-direction: row;
+  background-color: $pink-1;
+  margin: 0 auto;
+  white-space: nowrap;
+  overflow: hidden;
+  box-sizing: border-box;
+  div {
+    display: flex;
+    flex-grow: 1;
+    animation: marquee 30s linear infinite;
+  }
+  p {
+    font-family: "Inconsolata-SemiExpanded-SemiBold", "Courier New", monospace;
+    color: $cream-1;
+    margin: 12px 12px;
+  }
+}
+
+/* Make it move */
+@keyframes marquee {
+  0% {
+    transform: translate(0, 0);
+  }
+  100% {
+    transform: translate(-100%, 0);
+  }
+}
+
+h2 {
+  font-family: "Swear-Display-Black-Cilati", "Helvetica", serif;
+  color: $green-1;
+}
+
+h1 {
+  font-family: "Lyyra-Expanded-Black", "Helvetica", sans-serif;
+  color: $cream-1;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: $green-1;
+}

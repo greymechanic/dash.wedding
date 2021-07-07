@@ -1,0 +1,35 @@
+// INCONSOLATA
+
+@font-face {
+  font-family: "Inconsolata-SemiExpanded-Regular";
+  src: url("../fonts/Inconsolata_SemiExpanded-Regular.ttf"); /* IE9 Compat Modes */
+  src: url("../fonts/Inconsolata_SemiExpanded-Regular.ttf") format("truetype"); /* Safari, Android, iOS */
+}
+
+@font-face {
+  font-family: "Inconsolata-SemiExpanded-SemiBold";
+  src: url("../fonts/Inconsolata_SemiExpanded-SemiBold.ttf"); /* IE9 Compat Modes */
+  src: url("../fonts/Inconsolata_SemiExpanded-Regular.ttf") format("truetype"); /* Safari, Android, iOS */
+}
+
+// LYYRA EXPANDED
+
+@font-face {
+  font-family: "Lyyra-Expanded-Black";
+  src: url("../fonts/LyyraExpanded-Black.eot"); /* IE9 Compat Modes */
+  src: url("../fonts/LyyraExpanded-Black.eot?#iefix")
+      format("embedded-opentype"),
+    /* IE6-IE8 */ url("../fonts/LyyraExpanded-Black.woff2") format("woff2"),
+    /* Super Modern Browsers */ url("../fonts/LyyraExpanded-Black.woff")
+      format("woff"); /* Pretty Modern Browsers */
+}
+
+// SWEAR DISPLAY
+
+@font-face {
+  font-family: "Swear-Display-Black-Cilati";
+  src: url("../fonts/Swear_Display-Black_Cilati.woff2") format("woff2"),
+    /* Super Modern Browsers */ url("../fonts/Swear_Display-Black_Cilati.woff")
+      format("woff");
+  /* Pretty Modern Browsers */
+}
