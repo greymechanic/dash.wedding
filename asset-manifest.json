@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/dash.wedding/static/css/main.27677712.chunk.css",
-    "main.js": "/dash.wedding/static/js/main.0ac83a00.chunk.js",
-    "main.js.map": "/dash.wedding/static/js/main.0ac83a00.chunk.js.map",
-    "runtime-main.js": "/dash.wedding/static/js/runtime-main.ff0ff4d3.js",
-    "runtime-main.js.map": "/dash.wedding/static/js/runtime-main.ff0ff4d3.js.map",
-    "static/js/2.6ba11457.chunk.js": "/dash.wedding/static/js/2.6ba11457.chunk.js",
-    "static/js/2.6ba11457.chunk.js.map": "/dash.wedding/static/js/2.6ba11457.chunk.js.map",
-    "static/js/3.eebe06b1.chunk.js": "/dash.wedding/static/js/3.eebe06b1.chunk.js",
-    "static/js/3.eebe06b1.chunk.js.map": "/dash.wedding/static/js/3.eebe06b1.chunk.js.map",
-    "index.html": "/dash.wedding/index.html",
-    "static/css/main.27677712.chunk.css.map": "/dash.wedding/static/css/main.27677712.chunk.css.map",
-    "static/js/2.6ba11457.chunk.js.LICENSE.txt": "/dash.wedding/static/js/2.6ba11457.chunk.js.LICENSE.txt",
-    "static/media/App.scss": "/dash.wedding/static/media/Swear_Display-Black_Cilati.f4bb0479.woff2"
+    "main.css": "/static/css/main.a36e4530.chunk.css",
+    "main.js": "/static/js/main.0ac83a00.chunk.js",
+    "main.js.map": "/static/js/main.0ac83a00.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.74f871f5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.74f871f5.js.map",
+    "static/js/2.6ba11457.chunk.js": "/static/js/2.6ba11457.chunk.js",
+    "static/js/2.6ba11457.chunk.js.map": "/static/js/2.6ba11457.chunk.js.map",
+    "static/js/3.eebe06b1.chunk.js": "/static/js/3.eebe06b1.chunk.js",
+    "static/js/3.eebe06b1.chunk.js.map": "/static/js/3.eebe06b1.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.a36e4530.chunk.css.map": "/static/css/main.a36e4530.chunk.css.map",
+    "static/js/2.6ba11457.chunk.js.LICENSE.txt": "/static/js/2.6ba11457.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/static/media/Swear_Display-Black_Cilati.f4bb0479.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.ff0ff4d3.js",
+    "static/js/runtime-main.74f871f5.js",
     "static/js/2.6ba11457.chunk.js",
-    "static/css/main.27677712.chunk.css",
+    "static/css/main.a36e4530.chunk.css",
     "static/js/main.0ac83a00.chunk.js"
   ]
 }
