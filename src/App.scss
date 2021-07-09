@@ -1,6 +1,11 @@
 @import "./styles/_fonts.scss";
 @import "./styles/_colors.scss";
 
+html {
+  font-size: 16px;
+  transition: font-size 0.25s linear;
+}
+
 body {
   background-color: $cream-1;
   -webkit-font-smoothing: antialiased;
@@ -56,19 +61,49 @@ body {
 
 h2 {
   font-family: "Swear-Display-Black-Cilati", "Helvetica", serif;
-  font-size: 45px;
-  line-height: 45px;
+  font-size: 2.5rem;
+  line-height: 2.5rem;
   color: $green-1;
   margin: 0;
 }
 
 h1 {
   font-family: "Lyyra-Expanded-Black", "Helvetica", sans-serif;
-  font-size: 120px;
-  line-height: 104px;
-  letter-spacing: 2.5%;
+  // font-size: 120px;
+  font-size: 8vw;
+  line-height: 7vw;
+  letter-spacing: 0.2vw;
   color: $cream-1;
   -webkit-text-stroke-width: 3px;
   -webkit-text-stroke-color: $green-1;
   margin: 0;
+  transition: all 0.25s linear;
+}
+
+@media (max-width: 480px) {
+  html {
+    font-size: 12px;
+  }
+  h1 {
+    font-size: 10vw;
+    line-height: 9vw;
+    -webkit-text-stroke-width: 1px;
+  }
+  .page.home .main {
+    margin: 20px;
+  }
+}
+
+@media (min-width: 481px) and (max-width: 768px) {
+  html {
+    font-size: 14px;
+  }
+  h1 {
+    font-size: 9vw;
+    line-height: 8vw;
+    -webkit-text-stroke-width: 2px;
+  }
+  .page.home .main {
+    margin: 20px 32px;
+  }
 }
