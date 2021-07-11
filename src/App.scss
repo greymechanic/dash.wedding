@@ -33,7 +33,8 @@ body {
   }
 }
 
-.marquee {
+.marquee,
+.marquee-r {
   width: 100%;
   overflow: hidden;
   white-space: nowrap;
@@ -41,14 +42,20 @@ body {
   background-color: $pink-1;
   p {
     font-family: "Inconsolata-SemiExpanded-SemiBold", "Courier New", monospace;
+    font-size: 18px;
     font-weight: 600;
+    letter-spacing: 4px;
     color: $cream-1;
-    animation: marquee 4s linear infinite;
+    animation: marquee 4.1s linear infinite;
     display: inline-block;
-    padding-left: 20px;
+    padding-left: 32px;
     margin: 0;
     text-transform: uppercase;
   }
+}
+
+.marquee-r p {
+  animation-direction: reverse;
 }
 
 @keyframes marquee {
@@ -62,8 +69,8 @@ body {
 
 h2 {
   font-family: "Swear-Display-Black-Cilati", "Helvetica", serif;
-  font-size: 2.8rem;
-  line-height: 2.8rem;
+  font-size: 3.2rem;
+  line-height: 3.2rem;
   color: $green-1;
   margin: 0;
 }
