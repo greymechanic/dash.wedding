@@ -1,4 +1,6 @@
 import "./App.scss";
+import woodside1 from "./images/woodside-1.jpg";
+import woodside2 from "./images/woodside-2.jpg";
 
 function App() {
   return (
@@ -33,6 +35,14 @@ function App() {
           MARRIED
         </h1>
         <h2 className="tagline">at their home in berkeley, ca</h2>
+        <div className="background top-image">
+          <p className="caption">1151 Woodside Rd - May 1956</p>
+          <img src={woodside1} />
+        </div>
+        <div className="background bottom-image">
+          {/* <p className="caption">1151 Woodside Rd - May 1956</p> */}
+          <img src={woodside2} />
+        </div>
       </div>
       <footer className="marquee-r">
         <p>May 28, 2022</p>
