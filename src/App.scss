@@ -4,7 +4,6 @@
 html {
   font-size: 16px;
   transition: font-size 0.25s linear;
-  height: -webkit-fill-available;
 }
 
 body {
@@ -12,8 +11,6 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   height: 100vh;
-  min-height: 100vh;
-  min-height: -webkit-fill-available;
   width: 100vw;
 }
 
