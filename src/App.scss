@@ -38,17 +38,17 @@ body {
   width: 100%;
   overflow: hidden;
   white-space: nowrap;
-  padding: 12px 0;
   background-color: $pink-1;
   p {
     font-family: "Inconsolata-SemiExpanded-SemiBold", "Courier New", monospace;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 600;
     letter-spacing: 4px;
+    line-height: 20px;
     color: $cream-1;
     animation: marquee 4.1s linear infinite;
     display: inline-block;
-    padding-left: 32px;
+    padding: 12px 0 12px 32px;
     margin: 0;
     text-transform: uppercase;
   }
@@ -69,8 +69,8 @@ body {
 
 h2 {
   font-family: "Swear-Display-Black-Cilati", "Helvetica", serif;
-  font-size: 3.2rem;
-  line-height: 3.2rem;
+  font-size: 4rem;
+  line-height: 4rem;
   color: $green-1;
   margin: 0;
 }
@@ -79,10 +79,10 @@ h1 {
   font-family: "Lyyra-Expanded-Black", "Helvetica", sans-serif;
   // font-size: 120px;
   font-size: 8vw;
-  line-height: 7vw;
+  line-height: 6.5vw;
   letter-spacing: 0.2vw;
   color: $cream-1;
-  -webkit-text-stroke-width: 3px;
+  -webkit-text-stroke-width: 2px;
   -webkit-text-stroke-color: $green-1;
   margin: 0;
   transition: all 0.25s linear;
@@ -96,6 +96,10 @@ h1 {
     font-size: 10vw;
     line-height: 9vw;
     -webkit-text-stroke-width: 1px;
+  }
+  h2 {
+    font-size: 3.5rem;
+    line-height: 3.5rem;
   }
   .page.home .main {
     margin: 20px;
