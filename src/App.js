@@ -36,7 +36,7 @@ function App() {
         </h1>
         <h2 className="tagline">at their home in berkeley, ca</h2>
         <div className="background top-image">
-          <p className="caption">1151 Woodside Rd - May 1956</p>
+          <p className="caption">1151 Woodside Rd — May 1956</p>
           <img src={woodside1} />
         </div>
         <div className="background bottom-image">
