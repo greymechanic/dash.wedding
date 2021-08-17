@@ -6,24 +6,24 @@ function App() {
   return (
     <div className="home page">
       <header className="marquee">
-        <p>May 28, 2022</p>
-        <p aria-hidden="true">May 28, 2022</p>
-        <p aria-hidden="true">May 28, 2022</p>
-        <p aria-hidden="true">May 28, 2022</p>
-        <p aria-hidden="true">May 28, 2022</p>
-        <p aria-hidden="true">May 28, 2022</p>
-        <p aria-hidden="true">May 28, 2022</p>
-        <p aria-hidden="true">May 28, 2022</p>
-        <p aria-hidden="true">May 28, 2022</p>
-        <p aria-hidden="true">May 28, 2022</p>
-        <p aria-hidden="true">May 28, 2022</p>
-        <p aria-hidden="true">May 28, 2022</p>
-        <p aria-hidden="true">May 28, 2022</p>
-        <p aria-hidden="true">May 28, 2022</p>
-        <p aria-hidden="true">May 28, 2022</p>
-        <p aria-hidden="true">May 28, 2022</p>
-        <p aria-hidden="true">May 28, 2022</p>
-        <p aria-hidden="true">May 28, 2022</p>
+        <p>June 4, 2022</p>
+        <p aria-hidden="true">June 4, 2022</p>
+        <p aria-hidden="true">June 4, 2022</p>
+        <p aria-hidden="true">June 4, 2022</p>
+        <p aria-hidden="true">June 4, 2022</p>
+        <p aria-hidden="true">June 4, 2022</p>
+        <p aria-hidden="true">June 4, 2022</p>
+        <p aria-hidden="true">June 4, 2022</p>
+        <p aria-hidden="true">June 4, 2022</p>
+        <p aria-hidden="true">June 4, 2022</p>
+        <p aria-hidden="true">June 4, 2022</p>
+        <p aria-hidden="true">June 4, 2022</p>
+        <p aria-hidden="true">June 4, 2022</p>
+        <p aria-hidden="true">June 4, 2022</p>
+        <p aria-hidden="true">June 4, 2022</p>
+        <p aria-hidden="true">June 4, 2022</p>
+        <p aria-hidden="true">June 4, 2022</p>
+        <p aria-hidden="true">June 4, 2022</p>
       </header>
       <div className="main">
         <h2>save the date</h2>
@@ -45,24 +45,24 @@ function App() {
         </div>
       </div>
       <footer className="marquee-r">
-        <p>May 28, 2022</p>
-        <p aria-hidden="true">May 28, 2022</p>
-        <p aria-hidden="true">May 28, 2022</p>
-        <p aria-hidden="true">May 28, 2022</p>
-        <p aria-hidden="true">May 28, 2022</p>
-        <p aria-hidden="true">May 28, 2022</p>
-        <p aria-hidden="true">May 28, 2022</p>
-        <p aria-hidden="true">May 28, 2022</p>
-        <p aria-hidden="true">May 28, 2022</p>
-        <p aria-hidden="true">May 28, 2022</p>
-        <p aria-hidden="true">May 28, 2022</p>
-        <p aria-hidden="true">May 28, 2022</p>
-        <p aria-hidden="true">May 28, 2022</p>
-        <p aria-hidden="true">May 28, 2022</p>
-        <p aria-hidden="true">May 28, 2022</p>
-        <p aria-hidden="true">May 28, 2022</p>
-        <p aria-hidden="true">May 28, 2022</p>
-        <p aria-hidden="true">May 28, 2022</p>
+        <p>June 4, 2022</p>
+        <p aria-hidden="true">June 4, 2022</p>
+        <p aria-hidden="true">June 4, 2022</p>
+        <p aria-hidden="true">June 4, 2022</p>
+        <p aria-hidden="true">June 4, 2022</p>
+        <p aria-hidden="true">June 4, 2022</p>
+        <p aria-hidden="true">June 4, 2022</p>
+        <p aria-hidden="true">June 4, 2022</p>
+        <p aria-hidden="true">June 4, 2022</p>
+        <p aria-hidden="true">June 4, 2022</p>
+        <p aria-hidden="true">June 4, 2022</p>
+        <p aria-hidden="true">June 4, 2022</p>
+        <p aria-hidden="true">June 4, 2022</p>
+        <p aria-hidden="true">June 4, 2022</p>
+        <p aria-hidden="true">June 4, 2022</p>
+        <p aria-hidden="true">June 4, 2022</p>
+        <p aria-hidden="true">June 4, 2022</p>
+        <p aria-hidden="true">June 4, 2022</p>
       </footer>
     </div>
   );
