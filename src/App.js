@@ -3,6 +3,8 @@ import woodside1 from "./images/woodside-1.jpg";
 import woodside2 from "./images/woodside-2.jpg";
 
 function App() {
+  let vh = window.innerHeight * 0.01;
+  document.documentElement.style.setProperty('--vh', `${vh}px`);
   return (
     <div className="home page">
       <header className="marquee">
