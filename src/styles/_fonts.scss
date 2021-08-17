@@ -2,12 +2,14 @@
 
 @font-face {
   font-family: "Inconsolata-SemiExpanded-Regular";
+  font-weight: 400;
   src: url("../fonts/Inconsolata_SemiExpanded-Regular.ttf"); /* IE9 Compat Modes */
   src: url("../fonts/Inconsolata_SemiExpanded-Regular.ttf") format("truetype"); /* Safari, Android, iOS */
 }
 
 @font-face {
   font-family: "Inconsolata-SemiExpanded-SemiBold";
+  font-weight: 600;
   src: url("../fonts/Inconsolata_SemiExpanded-SemiBold.ttf"); /* IE9 Compat Modes */
   src: url("../fonts/Inconsolata_SemiExpanded-Regular.ttf") format("truetype"); /* Safari, Android, iOS */
 }
@@ -16,6 +18,7 @@
 
 @font-face {
   font-family: "Lyyra-Expanded-Black";
+  font-weight: 900;
   src: url("../fonts/LyyraExpanded-Black.eot"); /* IE9 Compat Modes */
   src: url("../fonts/LyyraExpanded-Black.eot?#iefix")
       format("embedded-opentype"),
@@ -28,6 +31,7 @@
 
 @font-face {
   font-family: "Swear-Display-Black-Cilati";
+  font-weight: 900;
   src: url("../fonts/Swear_Display-Black_Cilati.woff2") format("woff2"),
     /* Super Modern Browsers */ url("../fonts/Swear_Display-Black_Cilati.woff")
       format("woff");
