@@ -44,10 +44,10 @@ body {
   white-space: nowrap;
   background-color: $pink-1;
   p {
-    font-family: "Inconsolata-SemiExpanded-SemiBold", "Courier New", monospace;
+    font-family: "Inconsolata-SemiExpanded-Bold", "Courier New", monospace;
     font-size: 16px;
-    font-weight: 600;
-    letter-spacing: 4px;
+    font-weight: 700;
+    letter-spacing: 2px;
     line-height: 20px;
     color: $cream-1;
     animation: marquee 4.1s linear infinite;
@@ -55,6 +55,9 @@ body {
     padding: 12px 0 12px 32px;
     margin: 0;
     text-transform: uppercase;
+    span {
+      letter-spacing: -3px;
+    }
   }
 }
 

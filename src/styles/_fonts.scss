@@ -11,7 +11,14 @@
   font-family: "Inconsolata-SemiExpanded-SemiBold";
   font-weight: 600;
   src: url("../fonts/Inconsolata_SemiExpanded-SemiBold.ttf"); /* IE9 Compat Modes */
-  src: url("../fonts/Inconsolata_SemiExpanded-Regular.ttf") format("truetype"); /* Safari, Android, iOS */
+  src: url("../fonts/Inconsolata_SemiExpanded-SemiBold.ttf") format("truetype"); /* Safari, Android, iOS */
+}
+
+@font-face {
+  font-family: "Inconsolata-SemiExpanded-Bold";
+  font-weight: 700;
+  src: url("../fonts/Inconsolata_SemiExpanded-Bold.ttf"); /* IE9 Compat Modes */
+  src: url("../fonts/Inconsolata_SemiExpanded-Bold.ttf") format("truetype"); /* Safari, Android, iOS */
 }
 
 // LYYRA EXPANDED
