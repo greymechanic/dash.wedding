@@ -135,6 +135,7 @@ h1 {
   text-transform: uppercase;
 }
 
+/* phone ----------- */
 @media (max-width: 480px) {
   html {
     font-size: 12px;
@@ -169,6 +170,30 @@ h1 {
     img {
       width: initial;
       height: 18vh;
+    }
+  }
+}
+
+/* iPad (portrait) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
+  .top-image {
+    left: 0;
+    right: unset;
+    .caption {
+      display: none;
+    }
+    img {
+      width: initial;
+      height: 35vh;
+    }
+  }
+  .bottom-image {
+    right: 0;
+    left: unset;
+    bottom: 12%;
+    img {
+      width: initial;
+      height: 28vh;
     }
   }
 }
