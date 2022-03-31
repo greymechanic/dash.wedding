@@ -29,7 +29,7 @@ function Details() {
                   <p><b>DRESS</b></p>
                 </div>
                 <div className="cell detail">
-                  <p>Anything goes, <a href="#dress-code" target="_blank">really</a>!</p>
+                  <p>Anything goes, <a href="#dress-code">really</a>!</p>
                 </div>
               </div>
               <div className="row">

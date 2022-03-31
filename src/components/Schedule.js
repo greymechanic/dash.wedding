@@ -21,8 +21,9 @@ function Schedule() {
                   <p><b>Saturday June 4</b></p>
                 </div>
                 <div className="cell detail">
-                <p><b>4PM:</b> Ceremony</p>
-                <p><b>4:30-11PM:</b>Food, Drinks, Dancing</p>
+                <p><b>4:30PM:</b> Welcome drink</p>
+                <p><b>5:00PM:</b> Ceremony</p>
+                <p><b>5:15-11PM:</b>Food, Drinks, Dancing</p>
                 </div>
               </div>
               <div className="row">
