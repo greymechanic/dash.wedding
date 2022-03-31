@@ -23,7 +23,7 @@ function FAQ() {
               <div>
                 <h3>what's the schedule?</h3>
                 <p>
-                  {"If you are in town on Friday and would like to join us for a pre-wedding drink, we will be meeting at Skates on the Bay at 8pm. On Saturday, please arrive at 4:30pm at our house. The ceremony will start right away, followed by a cocktail party with plenty of food, drinks, and dancing. If you’d rather not spend your hangover alone, we’ll be hosting a casual brunch at our house from 11am–2pm on Sunday so we can gulp down the remaining beers still lying around. More details here."}
+                  If you are in town on Friday and would like to join us for a pre-wedding drink, we will be meeting at <a className="ib" href="https://skatesonthebay.com" target="_blank">Skates on the Bay</a>{" at 8pm. On Saturday, please arrive at 4:30pm at our house. The ceremony will start right away, followed by a cocktail party with plenty of food, drinks, and dancing. If you’d rather not spend your hangover alone, we’ll be hosting a casual brunch at "}<a className="ib" href="https://goo.gl/maps/H7yEEogJ2i4WZmRh8" target="_blank">our house</a>{" from 11am–2pm on Sunday so we can gulp down the remaining beers still lying around. More details here."}
                 </p>
               </div>
               <div>
@@ -35,7 +35,7 @@ function FAQ() {
               <div>
                 <h3>what will i eat?</h3>
                 <p>
-                  {"We will not have a sit-down dinner, but there will be plenty of food and you will not leave hungry! We will have pizzas and salads from Lucia’s, and plenty of snacks throughout the night, as well as a full bar. If you have dietary restrictions, please let us know in your RSVP."}
+                  We will not have a sit-down dinner, but there will be plenty of food and you will not leave hungry! We will have pizzas and salads from <a className="ib" href="https://www.luciasberkeley.com" target="_blank">{"Lucia’s"}</a>, and plenty of snacks throughout the night, as well as a full bar. If you have dietary restrictions, please let us know in your <a className="ib" href="#" target="_blank">RSVP</a>.
                 </p>
               </div>
             </div>
@@ -58,7 +58,7 @@ function FAQ() {
                   <a href="https://www.berkeleycityclub.com/" target="_blank"><b>Berkeley City Club</b></a>: Berkeley City Club is a historic hotel centrally located in downtown Berkeley, and a 10 minute drive from our house. The rooms are modest, but the architecture is lovely and the indoor pool is beautifully unique. The price is similar to the Graduate Hotel.
                 </p>
                 <p>
-                  There are also <a href="https://www.airbnb.com/s/Berkeley--California--United-States/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_dates%5B%5D=february&flexible_trip_dates%5B%5D=january&flexible_trip_lengths%5B%5D=weekend_trip&date_picker_type=calendar&query=Berkeley%2C%20California%2C%20United%20States&place_id=ChIJ00mFOjZ5hYARk-l1ppUV6pQ&checkin=2022-06-03&checkout=2022-06-05&source=structured_search_input_header&search_type=filter_change&room_types%5B%5D=Entire%20home%2Fapt" target="_blank"><b>quite a few AirBnB options</b></a> close to our house, which may end up being cheaper than a hotel.
+                  There are also <a href="https://www.airbnb.com/s/Berkeley--California--United-States/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_dates%5B%5D=february&flexible_trip_dates%5B%5D=january&flexible_trip_lengths%5B%5D=weekend_trip&date_picker_type=calendar&query=Berkeley%2C%20California%2C%20United%20States&place_id=ChIJ00mFOjZ5hYARk-l1ppUV6pQ&checkin=2022-06-03&checkout=2022-06-05&source=structured_search_input_header&search_type=filter_change&room_types%5B%5D=Entire%20home%2Fapt" target="_blank">quite a few AirBnB options</a> close to our house, which may end up being cheaper than a hotel.
                 </p>
                 <p>
                   We recommend booking a hotel or Airbnb as soon as possible, as wedding season this year is expected to be incredibly busy, and I would imagine things will book up if you wait too long.

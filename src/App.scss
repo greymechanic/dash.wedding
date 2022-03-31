@@ -32,7 +32,7 @@ body {
   flex-direction: column;
   flex-grow: 1;
   justify-content: space-between;
-  padding: 20px 64px;
+  padding: 40px 64px;
   .tagline {
     align-self: flex-end;
     text-align: right;
@@ -235,8 +235,9 @@ h3 {
   a {
     font-family: "Swear-Display-Black-Cilati", "Helvetica", serif;
     font-size: 2rem;
+    line-height: 80%;
     text-decoration: none;
-    padding: 8px 20px;
+    padding: 8px 20px 12px;
     border: 3px solid $green-1;
     background-color: $bright;
     color: $green-1;
@@ -285,7 +286,8 @@ h3 {
     a {
       display: block;
       color: $body;
-      &:only-child {
+      &:only-child,
+      &.ib {
         display: inline-block;
       }
     }
