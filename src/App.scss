@@ -236,7 +236,7 @@ h3 {
     font-family: "Swear-Display-Black-Cilati", "Helvetica", serif;
     font-size: 2rem;
     text-decoration: none;
-    padding: 12px 20px;
+    padding: 8px 20px;
     border: 2px solid $green-1;
     background-color: $bright;
     color: $green-1;
@@ -262,7 +262,9 @@ h3 {
   margin-top: 20px;
   div {
     flex: 1;
+    margin-top: 32px;
     &:first-child {
+      margin-top: 0;
       margin-right: 64px;
     }
   }
@@ -278,6 +280,7 @@ h3 {
     a {
       font-family: "Mono-Bold", "Courier New", monospace;
       display: block;
+      color: $body;
       &:only-child {
         display: inline-block;
       }
