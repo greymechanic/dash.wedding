@@ -13,7 +13,7 @@ function Details() {
                   <p><b>WHEN</b></p>
                 </div>
                 <div className="cell detail">
-                  <p>June 4, 2022 @ 4PM</p>
+                  <p>June 4, 2022 @ 4:30PM</p>
                 </div>
               </div>
               <div className="row">
@@ -51,7 +51,7 @@ function Details() {
             </div>
           </div>
           <div className="rsvp">
-            <a href="#" type="button" target="_blank">RSVP</a>
+            <a href="#" type="button" target="_blank">rsvp</a>
           </div>
         </section>
       </div>

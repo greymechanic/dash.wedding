@@ -6,9 +6,9 @@ import MarqueeReverse from "./MarqueeReverse";
 function LandingPage() {
   return (
     <div className="home page">
-      <Marquee />
+    <Marquee />
     <div className="main">
-      <h3>save the date</h3>
+      <h3> </h3>
       <h1>
         LAUREN & <br />
         ANDREW <br />

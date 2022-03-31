@@ -23,7 +23,7 @@ function FAQ() {
               <div>
                 <h3>what's the schedule?</h3>
                 <p>
-                  {"If you are in town on Friday and would like to join us for a pre-wedding drink, we will be meeting at this bar at 8pm. On Saturday, please arrive at 4pm at our house. The ceremony will start right away, followed by a cocktail party with plenty of food, drinks, and dancing. If you’d rather not spend your hangover alone, we’ll be hosting a casual brunch at our house from 11am–2pm on Sunday so we can gulp down the remaining beers still lying around. More details here."}
+                  {"If you are in town on Friday and would like to join us for a pre-wedding drink, we will be meeting at Skates on the Bay at 8pm. On Saturday, please arrive at 4:30pm at our house. The ceremony will start right away, followed by a cocktail party with plenty of food, drinks, and dancing. If you’d rather not spend your hangover alone, we’ll be hosting a casual brunch at our house from 11am–2pm on Sunday so we can gulp down the remaining beers still lying around. More details here."}
                 </p>
               </div>
               <div>
@@ -58,12 +58,7 @@ function FAQ() {
                   <a href="https://www.berkeleycityclub.com/" target="_blank">Berkeley City Club</a>: Berkeley City Club is a historic hotel centrally located in downtown Berkeley, and a 10 minute drive from our house. The rooms are modest, but the architecture is lovely and the indoor pool is beautifully unique. The price is similar to the Graduate Hotel.
                 </p>
                 <p>
-                  There are also quite a few Airbnb options close to our house, which may end up being cheaper than a hotel. Here are a few gems that I've found while browsing:
-                </p>
-                <p>
-                  <a href="#" target="_blank">This lovely studio</a>
-                  <a href="#" target="_blank">This private cottage with a hot tub</a>
-                  <a href="#" target="_blank">This 1 bedroom with hot tub and a view</a>
+                  There are also <a href="#" target="_blank">quite a few AirBnB options</a> close to our house, which may end up being cheaper than a hotel.
                 </p>
                 <p>
                   We recommend booking a hotel or Airbnb as soon as possible, as wedding season this year is expected to be incredibly busy, and I would imagine things will book up if you wait too long.
