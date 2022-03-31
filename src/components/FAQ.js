@@ -7,7 +7,7 @@ function FAQ() {
         <section>
           <h2>F.A.Q.</h2>
           <div className="two-up">
-            <div>
+            <div className="column">
               <div>
                 <h3>what is dash bash?</h3>
                 <p>
@@ -39,7 +39,7 @@ function FAQ() {
                 </p>
               </div>
             </div>
-            <div>
+            <div className="column">
               <div>
                 <h3 id="dress-code">what should i wear?</h3>
                 <p>
