@@ -23,7 +23,7 @@ function FAQ() {
               <div>
                 <h3>what's the schedule?</h3>
                 <p>
-                  If you are in town on Friday and would like to join us for a pre-wedding drink, we will be meeting at <a className="ib" href="https://skatesonthebay.com" target="_blank">Skates on the Bay</a>{" at 8pm. On Saturday, please arrive at 4:30pm at our house. The ceremony will start right away, followed by a cocktail party with plenty of food, drinks, and dancing. If you’d rather not spend your hangover alone, we’ll be hosting a casual brunch at "}<a className="ib" href="https://goo.gl/maps/H7yEEogJ2i4WZmRh8" target="_blank">our house</a>{" from 11am–2pm on Sunday so we can gulp down the remaining beers still lying around. More details here."}
+                  If you are in town on Friday and would like to join us for a pre-wedding drink, we will be meeting at <a className="ib" href="https://skatesonthebay.com" target="_blank">Skates on the Bay</a>{" at 8pm. On Saturday, please arrive at 4:30pm at our house. The ceremony will start right away, followed by a cocktail party with plenty of food, drinks, and dancing. If you’d rather not spend your hangover alone, we’ll be hosting a casual brunch at "}<a className="ib" href="https://goo.gl/maps/H7yEEogJ2i4WZmRh8" target="_blank">our house</a>{" from 11am–2pm on Sunday so we can gulp down the remaining beers still lying around."}
                 </p>
               </div>
               <div>
