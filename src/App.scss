@@ -241,6 +241,7 @@ h3 {
     background-color: $bright;
     color: $green-1;
     transition: 0.2s all linear;
+    -webkit-appearance: none;
     &:hover {
       background-color: $green-1;
       color: $bright;
