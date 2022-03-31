@@ -178,6 +178,16 @@ h3 {
   }
 }
 
+.tinted {
+  p {
+    color: $green-1;
+  }
+  h2 {
+    color: $cream-1;
+    -webkit-text-stroke-color: $green-1;
+  }
+}
+
 .content {
   padding: 4vw 0;
   margin: 0 auto;
@@ -240,6 +250,31 @@ h3 {
   justify-content: center;
   h3 {
     color: $pink-2;
+  }
+}
+
+.two-up {
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+  div {
+    flex: 1;
+    &:first-child {
+      margin-right: 64px;
+    }
+  }
+  h3 {
+    font-size: 2rem;
+    margin-bottom: 12px;
+  }
+  p {
+    margin-bottom: 12px;
+    a {
+      display: block;
+      &:only-child {
+        display: inline-block;
+      }
+    }
   }
 }
 

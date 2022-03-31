@@ -1,4 +1,4 @@
-import MarqueeReverse from "./MarqueeReverse";
+import Marquee from "./Marquee";
 
 function Schedule() {
   return (
@@ -40,7 +40,7 @@ function Schedule() {
           </div>
         </section>
       </div>
-      <MarqueeReverse />
+      <Marquee />
     </div>
   );
 }
