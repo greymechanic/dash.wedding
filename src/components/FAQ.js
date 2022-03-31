@@ -1,8 +1,10 @@
 
 function FAQ() {
   return (
-    <div className="xxx">
-      <p>FAQ</p>
+    <div className="main tinted">
+      <section>
+        <h2>F.A.Q.</h2>
+      </section>
     </div>
   );
 }

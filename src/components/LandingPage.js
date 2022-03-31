@@ -25,7 +25,7 @@ function LandingPage() {
       <p aria-hidden="true">June<span> </span>4,<span> </span>2022</p>
     </header>
     <div className="main">
-      <h2>save the date</h2>
+      <h3>save the date</h3>
       <h1>
         LAUREN & <br />
         ANDREW <br />
@@ -33,7 +33,7 @@ function LandingPage() {
         GETTING <br />
         MARRIED
       </h1>
-      <h2 className="tagline">at their home in berkeley, ca</h2>
+      <h3 className="tagline">at their home in berkeley, ca</h3>
       <div className="background top-image">
         <p className="caption">1151 Woodside Rd — May 1956</p>
         <img src={woodside1} />

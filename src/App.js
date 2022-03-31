@@ -3,6 +3,7 @@ import Details from "./components/Details";
 import FAQ from "./components/FAQ";
 import Footer from "./components/Footer";
 import LandingPage from "./components/LandingPage";
+import Schedule from "./components/Schedule";
 
 function App() {
   var vh = window.innerHeight * 0.01,
@@ -32,6 +33,7 @@ function App() {
       <LandingPage />
       <Details />
       <FAQ />
+      <Schedule />
       <Footer />
     </div>
   );
