@@ -198,6 +198,9 @@ h3 {
 
 .container {
   padding: 64px 64px 40px 64px;
+  &:last-of-type {
+    padding: 64px;
+  }
 }
 
 .detailsTable {
