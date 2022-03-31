@@ -35,7 +35,7 @@ function Schedule() {
             </div>
           </div>
           <div className="rsvp">
-            <a href="#" type="button" target="_blank">RSVP</a>
+            <a href="#" type="button" target="_blank">rsvp</a>
           </div>
         </section>
       </div>

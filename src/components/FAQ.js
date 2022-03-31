@@ -58,7 +58,7 @@ function FAQ() {
                   <a href="https://www.berkeleycityclub.com/" target="_blank">Berkeley City Club</a>: Berkeley City Club is a historic hotel centrally located in downtown Berkeley, and a 10 minute drive from our house. The rooms are modest, but the architecture is lovely and the indoor pool is beautifully unique. The price is similar to the Graduate Hotel.
                 </p>
                 <p>
-                  There are also <a href="#" target="_blank">quite a few AirBnB options</a> close to our house, which may end up being cheaper than a hotel.
+                  There are also <a href="https://www.airbnb.com/s/Berkeley--California--United-States/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_dates%5B%5D=february&flexible_trip_dates%5B%5D=january&flexible_trip_lengths%5B%5D=weekend_trip&date_picker_type=calendar&query=Berkeley%2C%20California%2C%20United%20States&place_id=ChIJ00mFOjZ5hYARk-l1ppUV6pQ&checkin=2022-06-03&checkout=2022-06-05&source=structured_search_input_header&search_type=filter_change&room_types%5B%5D=Entire%20home%2Fapt" target="_blank">quite a few AirBnB options</a> close to our house, which may end up being cheaper than a hotel.
                 </p>
                 <p>
                   We recommend booking a hotel or Airbnb as soon as possible, as wedding season this year is expected to be incredibly busy, and I would imagine things will book up if you wait too long.
