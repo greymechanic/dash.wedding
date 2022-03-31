@@ -46,17 +46,21 @@ body {
   white-space: nowrap;
   background-color: $pink-1;
   p {
-    font-family: "Mono-Bold", "Courier New", monospace;
+    font-family: "Mono-Regular", "Courier New", monospace;
     font-size: 16px;
-    font-weight: 700;
+    font-weight: 400;
     letter-spacing: 2px;
     line-height: 20px;
     color: $cream-1;
     animation: marquee 4.1s linear infinite;
     display: inline-block;
-    padding: 12px 0 12px 32px;
+    padding: 12px 0 12px 12px;
     margin: 0;
     text-transform: uppercase;
+    b {
+      font-family: "Mono-Bold", "Courier New", monospace;
+      font-weight: 700;
+    }
     span {
       letter-spacing: -3px;
     }
@@ -80,7 +84,7 @@ p {
   margin: 0;
   font-family: "Mono-Regular", "Courier New", monospace;
   font-size: 1rem;
-  line-height: 1rem;
+  line-height: 1.25rem;
   color: $green-1;
   b {
     font-family: "Mono-Bold", "Courier New", monospace;
@@ -228,6 +232,14 @@ h3 {
       background-color: $green-1;
       color: $bright;
     }
+  }
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  h3 {
+    color: $pink-2;
   }
 }
 

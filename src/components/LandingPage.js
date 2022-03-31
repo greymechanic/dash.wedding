@@ -1,29 +1,12 @@
 import woodside1 from "../images/woodside-1.jpg";
 import woodside2 from "../images/woodside-2.jpg";
+import Marquee from "./Marquee";
+import MarqueeReverse from "./MarqueeReverse";
 
 function LandingPage() {
   return (
     <div className="home page">
-    <header className="marquee">
-      <p>June<span> </span>4,<span> </span>2022</p>
-      <p aria-hidden="true">June<span> </span>4,<span> </span>2022</p>
-      <p aria-hidden="true">June<span> </span>4,<span> </span>2022</p>
-      <p aria-hidden="true">June<span> </span>4,<span> </span>2022</p>
-      <p aria-hidden="true">June<span> </span>4,<span> </span>2022</p>
-      <p aria-hidden="true">June<span> </span>4,<span> </span>2022</p>
-      <p aria-hidden="true">June<span> </span>4,<span> </span>2022</p>
-      <p aria-hidden="true">June<span> </span>4,<span> </span>2022</p>
-      <p aria-hidden="true">June<span> </span>4,<span> </span>2022</p>
-      <p aria-hidden="true">June<span> </span>4,<span> </span>2022</p>
-      <p aria-hidden="true">June<span> </span>4,<span> </span>2022</p>
-      <p aria-hidden="true">June<span> </span>4,<span> </span>2022</p>
-      <p aria-hidden="true">June<span> </span>4,<span> </span>2022</p>
-      <p aria-hidden="true">June<span> </span>4,<span> </span>2022</p>
-      <p aria-hidden="true">June<span> </span>4,<span> </span>2022</p>
-      <p aria-hidden="true">June<span> </span>4,<span> </span>2022</p>
-      <p aria-hidden="true">June<span> </span>4,<span> </span>2022</p>
-      <p aria-hidden="true">June<span> </span>4,<span> </span>2022</p>
-    </header>
+      <Marquee />
     <div className="main">
       <h3>save the date</h3>
       <h1>
@@ -43,26 +26,7 @@ function LandingPage() {
         <img src={woodside2} />
       </div>
     </div>
-    <footer className="marquee-r">
-      <p>June<span> </span>4,<span> </span>2022</p>
-      <p aria-hidden="true">June<span> </span>4,<span> </span>2022</p>
-      <p aria-hidden="true">June<span> </span>4,<span> </span>2022</p>
-      <p aria-hidden="true">June<span> </span>4,<span> </span>2022</p>
-      <p aria-hidden="true">June<span> </span>4,<span> </span>2022</p>
-      <p aria-hidden="true">June<span> </span>4,<span> </span>2022</p>
-      <p aria-hidden="true">June<span> </span>4,<span> </span>2022</p>
-      <p aria-hidden="true">June<span> </span>4,<span> </span>2022</p>
-      <p aria-hidden="true">June<span> </span>4,<span> </span>2022</p>
-      <p aria-hidden="true">June<span> </span>4,<span> </span>2022</p>
-      <p aria-hidden="true">June<span> </span>4,<span> </span>2022</p>
-      <p aria-hidden="true">June<span> </span>4,<span> </span>2022</p>
-      <p aria-hidden="true">June<span> </span>4,<span> </span>2022</p>
-      <p aria-hidden="true">June<span> </span>4,<span> </span>2022</p>
-      <p aria-hidden="true">June<span> </span>4,<span> </span>2022</p>
-      <p aria-hidden="true">June<span> </span>4,<span> </span>2022</p>
-      <p aria-hidden="true">June<span> </span>4,<span> </span>2022</p>
-      <p aria-hidden="true">June<span> </span>4,<span> </span>2022</p>
-    </footer>
+    <MarqueeReverse/>
   </div>
   );
 }

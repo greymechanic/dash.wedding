@@ -1,9 +1,9 @@
 
 function Footer() {
   return (
-    <div className="main tinted">
-      <section>
-       <h3>Footer</h3>
+    <div className="container tinted">
+      <section className="footer">
+        <h3>Designed and built by the future dashes</h3>
       </section>
     </div>
   );
