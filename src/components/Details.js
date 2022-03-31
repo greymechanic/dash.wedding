@@ -37,7 +37,7 @@ function Details() {
                   <p><b>GIFTS</b></p>
                 </div>
                 <div className="cell detail">
-                <p><a href="#" target="_blank">View our registry</a></p>
+                <p><a href="https://www.blueprintregistry.com/registry/dashwedding" target="_blank">View our registry</a></p>
                 </div>
               </div>
               <div className="row">
