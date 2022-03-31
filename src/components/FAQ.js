@@ -47,7 +47,7 @@ function FAQ() {
                 </p>
               </div>
               <div>
-                <h3>what will i eat?</h3>
+                <h3>where should i stay?</h3>
                 <p>
                   <a href="https://theclaremonthotel.com/" target="_blank"><b>Claremont Hotel</b></a>: The Claremont is by far the nicest hotel in Berkeley, and the price shows it. If you want to splurge, this is where to do it. There are incredible views of the entire Bay Area from the property, and many of the rooms. There is a lovely pool and spa, and it's a quick 15 minute drive to our house.
                 </p>
