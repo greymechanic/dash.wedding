@@ -1,24 +1,31 @@
-// INCONSOLATA
+// SPACE MONO
 
 @font-face {
-  font-family: "Inconsolata-SemiExpanded-Regular";
+  font-family: "Mono-Regular";
   font-weight: 400;
-  src: url("../fonts/Inconsolata_SemiExpanded-Regular.ttf"); /* IE9 Compat Modes */
-  src: url("../fonts/Inconsolata_SemiExpanded-Regular.ttf") format("truetype"); /* Safari, Android, iOS */
+  src: url("../fonts/SpaceMono-Regular.ttf"); /* IE9 Compat Modes */
+  src: url("../fonts/SpaceMono-Regular.ttf") format("truetype"); /* Safari, Android, iOS */
 }
 
 @font-face {
-  font-family: "Inconsolata-SemiExpanded-SemiBold";
-  font-weight: 600;
-  src: url("../fonts/Inconsolata_SemiExpanded-SemiBold.ttf"); /* IE9 Compat Modes */
-  src: url("../fonts/Inconsolata_SemiExpanded-SemiBold.ttf") format("truetype"); /* Safari, Android, iOS */
-}
-
-@font-face {
-  font-family: "Inconsolata-SemiExpanded-Bold";
+  font-family: "Mono-Bold";
   font-weight: 700;
-  src: url("../fonts/Inconsolata_SemiExpanded-Bold.ttf"); /* IE9 Compat Modes */
-  src: url("../fonts/Inconsolata_SemiExpanded-Bold.ttf") format("truetype"); /* Safari, Android, iOS */
+  src: url("../fonts/SpaceMono-Bold.ttf"); /* IE9 Compat Modes */
+  src: url("../fonts/SpaceMono-Bold.ttf") format("truetype"); /* Safari, Android, iOS */
+}
+
+@font-face {
+  font-family: "Mono-BoldItalic";
+  font-weight: 700;
+  src: url("../fonts/SpaceMono-BoldItalic.ttf"); /* IE9 Compat Modes */
+  src: url("../fonts/SpaceMono-BoldItalic.ttf") format("truetype"); /* Safari, Android, iOS */
+}
+
+@font-face {
+  font-family: "Mono-Italic";
+  font-weight: 400;
+  src: url("../fonts/SpaceMono-Italic.ttf"); /* IE9 Compat Modes */
+  src: url("../fonts/SpaceMono-Italic.ttf") format("truetype"); /* Safari, Android, iOS */
 }
 
 // LYYRA EXPANDED

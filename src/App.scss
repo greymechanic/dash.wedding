@@ -1,5 +1,6 @@
 @import "./styles/_fonts.scss";
 @import "./styles/_colors.scss";
+@import "./styles/button-normalize";
 
 html {
   font-size: 16px;
@@ -45,7 +46,7 @@ body {
   white-space: nowrap;
   background-color: $pink-1;
   p {
-    font-family: "Inconsolata-SemiExpanded-Bold", "Courier New", monospace;
+    font-family: "Mono-Bold", "Courier New", monospace;
     font-size: 16px;
     font-weight: 700;
     letter-spacing: 2px;
@@ -72,6 +73,20 @@ body {
   }
   to {
     transform: translateX(-100%);
+  }
+}
+
+p {
+  margin: 0;
+  font-family: "Mono-Regular", "Courier New", monospace;
+  font-size: 1rem;
+  line-height: 1rem;
+  color: $green-1;
+  b {
+    font-family: "Mono-Bold", "Courier New", monospace;
+  }
+  a {
+    color: $green-1;
   }
 }
 
@@ -142,7 +157,7 @@ h3 {
 }
 
 .caption {
-  font-family: "Inconsolata-SemiExpanded-SemiBold", "Courier New", monospace;
+  font-family: "Mono-Regular", "Courier New", monospace;
   font-weight: 600;
   font-size: 14px;
   color: $green-1;
@@ -156,6 +171,63 @@ h3 {
   h2 {
     color: $bright;
     -webkit-text-stroke-color: $pink-1;
+  }
+}
+
+.content {
+  padding: 4vw 0;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.container {
+  padding: 64px 64px 40px 64px;
+}
+
+.detailsTable {
+  border: 3px solid $green-1;
+  .row {
+    display: flex;
+    flex-direction: row;
+    .cell {
+      padding: 20px;
+      border-bottom: 3px solid $green-1;
+      &.label {
+        display: flex;
+        justify-content: center;
+        width: 164px;
+        border-right: 3px solid $green-1;
+      }
+    }
+    &:last-child {
+      .cell {
+        border-bottom: none;
+      }
+    }
+    .detail {
+      flex: auto;
+    }
+  }
+}
+
+.rsvp {
+  display: flex;
+  flex-direction: row-reverse;
+  a {
+    font-family: "Swear-Display-Black-Cilati", "Helvetica", serif;
+    font-size: 2rem;
+    text-decoration: none;
+    padding: 20px;
+    border: 2px solid $green-1;
+    background-color: $bright;
+    color: $green-1;
+    transition: 0.2s all linear;
+    &:hover {
+      background-color: $green-1;
+      color: $bright;
+    }
   }
 }
 
