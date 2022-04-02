@@ -1,14 +1,14 @@
 import "./App.scss";
+import React from 'react';
 import Deets from "./components/Deets";
 import Footer from "./components/Footer";
 import LandingPage from "./components/LandingPage";
 import { Route, Routes, Navigate, useLocation } from "react-router-dom";
 import Login from "./components/Login";
-import Signup from "./components/Signup";
-import Reset from "./components/Reset";
-import Userfront from "@userfront/react";
+import { useCookies } from "react-cookie";
 
 function App() {
+
   var vh = window.innerHeight * 0.01,
     delay = 250, // delay between calls
     throttled = false; // are we currently throttled?
@@ -43,8 +43,6 @@ function App() {
             </RequireAuth>
           } />
         <Route path="/login" element={<Login/>} />
-        <Route path="/signup" element={<Signup/>} />
-        <Route path="/reset" element={<Reset/>} />
       </Routes>
       <Footer />
     </div>
@@ -52,10 +50,14 @@ function App() {
 }
 
 function RequireAuth({ children }) {
+  const [cookies] = useCookies(["pw"]);
+  const secret = "dash";
+  const hasAuth = cookies.pw !== undefined ? cookies.pw.toLowerCase() === secret : false;
+
   let location = useLocation();
-  if (!Userfront.tokens.accessToken) {
+  if (!hasAuth) {
     // Redirect to the home page
-    return <Navigate to="/" state={{ from: location }} replace />;
+    return <Navigate to="/login" state={{ from: location }} replace />;
   }
 
   return children;

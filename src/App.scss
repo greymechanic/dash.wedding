@@ -1,6 +1,6 @@
+@import "normalize.css";
 @import "./styles/_fonts.scss";
 @import "./styles/_colors.scss";
-@import "./styles/button-normalize";
 
 html {
   font-size: 16px;
@@ -229,6 +229,19 @@ h3 {
     .detail {
       flex: auto;
     }
+  }
+}
+
+.password {
+  font-family: "Mono-Regular", "Courier New", monospace;
+  color: $pink-1;
+  background-color: reset;
+  border-color: transparent;
+  &:focus-visible {
+    outline: $pink-2 dotted 1px;
+  }
+  &::placeholder {
+    color: rgba(0, 0, 0, 0.25);
   }
 }
 
