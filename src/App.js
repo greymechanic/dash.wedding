@@ -4,6 +4,8 @@ import Footer from "./components/Footer";
 import LandingPage from "./components/LandingPage";
 import { Route, Routes, Navigate, useLocation } from "react-router-dom";
 import Login from "./components/Login";
+import Signup from "./components/Signup";
+import Reset from "./components/Reset";
 import Userfront from "@userfront/react";
 
 function App() {
@@ -33,14 +35,16 @@ function App() {
     <div className="wrapper">
       <LandingPage />
       <Routes>
-        <Route path="/" element={<Login/>} />
         <Route 
-          path="/details" 
+          path="/" 
           element={
             <RequireAuth>
               <Deets/>
             </RequireAuth>
           } />
+        <Route path="/login" element={<Login/>} />
+        <Route path="/signup" element={<Signup/>} />
+        <Route path="/reset" element={<Reset/>} />
       </Routes>
       <Footer />
     </div>
