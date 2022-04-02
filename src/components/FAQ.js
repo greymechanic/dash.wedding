@@ -49,13 +49,13 @@ function FAQ() {
               <div>
                 <h3>where should i stay?</h3>
                 <p>
+                  <a href="https://www.kisseloakland.com/" target="_blank"><b>Kissel Hotel</b></a>: This is a brand new hotel in Uptown Oakland, that looks really nice and does not break the bank. This is our #1 reccomendation for the weekend, even though it’s a little farther from our house than the other two. It’s a 20 min drive to our house, and a 10 minute drive to Skates on the Bay. There are not a lot of good hotel options near us, so we were happy to see this one open. Plus, there’s an amazing rooftop bar to enjoy!
+                </p>
+                <p>
                   <a href="https://theclaremonthotel.com/" target="_blank"><b>Claremont Hotel</b></a>: The Claremont is by far the nicest hotel in Berkeley, and the price shows it. If you want to splurge, this is where to do it. There are incredible views of the entire Bay Area from the property, and many of the rooms. There is a lovely pool and spa, and it's a quick 15 minute drive to our house.
                 </p>
                 <p>
-                  <a href="https://www.graduatehotels.com/berkeley/" target="_blank"><b>Graduate Hotel</b></a>: The Graduate Hotel is a more reasonably priced hotel located downtown close to UC Berkeley's campus, and a 10 minute drive to our house. We have a wedding discount code here, which will get you 20% off the lowest available rate at the time of booking, and is good for any dates you book. The hotel is a little funky, and the rooms are modestly sized, but overall it's a good price for the location.
-                </p>
-                <p>
-                  <a href="https://www.berkeleycityclub.com/" target="_blank"><b>Berkeley City Club</b></a>: Berkeley City Club is a historic hotel centrally located in downtown Berkeley, and a 10 minute drive from our house. The rooms are modest, but the architecture is lovely and the indoor pool is beautifully unique. The price is similar to the Graduate Hotel.
+                  <a href="https://www.graduatehotels.com/berkeley/" target="_blank"><b>Graduate Hotel</b></a>: This is a brand new hotel in Uptown Oakland, that looks really nice and does not break the bank. This is our #1 reccomendation for the weekend, even though it’s a little farther from our house than the other two. It’s a 20 min drive to our house, and a 10 minute drive to Skates on the Bay. There are not a lot of good hotel options near us, so we were happy to see this one open. Plus, there’s an amazing rooftop bar to enjoy!
                 </p>
                 <p>
                   There are also <a href="https://www.airbnb.com/s/Berkeley--California--United-States/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_dates%5B%5D=february&flexible_trip_dates%5B%5D=january&flexible_trip_lengths%5B%5D=weekend_trip&date_picker_type=calendar&query=Berkeley%2C%20California%2C%20United%20States&place_id=ChIJ00mFOjZ5hYARk-l1ppUV6pQ&checkin=2022-06-03&checkout=2022-06-05&source=structured_search_input_header&search_type=filter_change&room_types%5B%5D=Entire%20home%2Fapt" target="_blank">quite a few AirBnB options</a> close to our house, which may end up being cheaper than a hotel.
