@@ -1,9 +1,9 @@
 import "./App.scss";
-import Details from "./components/Details";
-import FAQ from "./components/FAQ";
+import Deets from "./components/Deets";
 import Footer from "./components/Footer";
 import LandingPage from "./components/LandingPage";
-import Schedule from "./components/Schedule";
+import { Route, Routes } from "react-router-dom";
+import Login from "./components/Login";
 
 function App() {
   var vh = window.innerHeight * 0.01,
@@ -31,9 +31,10 @@ function App() {
   return (
     <div className="wrapper">
       <LandingPage />
-      <Details />
-      <FAQ />
-      <Schedule />
+      <Routes>
+        <Route path="/" element={<Login/>} />
+        <Route path="/details" element={<Deets/>} />
+      </Routes>
       <Footer />
     </div>
   );
