@@ -2,8 +2,9 @@ import "./App.scss";
 import Deets from "./components/Deets";
 import Footer from "./components/Footer";
 import LandingPage from "./components/LandingPage";
-import { Route, Routes } from "react-router-dom";
+import { Route, Routes, Navigate, useLocation } from "react-router-dom";
 import Login from "./components/Login";
+import Userfront from "@userfront/react";
 
 function App() {
   var vh = window.innerHeight * 0.01,
@@ -33,11 +34,28 @@ function App() {
       <LandingPage />
       <Routes>
         <Route path="/" element={<Login/>} />
-        <Route path="/details" element={<Deets/>} />
+        <Route 
+          path="/details" 
+          element={
+            <RequireAuth>
+              <Deets/>
+            </RequireAuth>
+          } />
       </Routes>
       <Footer />
     </div>
   );
+}
+
+function RequireAuth({ children }) {
+  let location = useLocation();
+  console.log(location);
+  if (!Userfront.tokens.accessToken) {
+    // Redirect to the home page
+    return <Navigate to="/" state={{ from: location }} replace />;
+  }
+
+  return children;
 }
 
 export default App;
