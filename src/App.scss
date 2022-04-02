@@ -237,7 +237,7 @@ h3 {
   flex-direction: row-reverse;
   a {
     font-family: "Swear-Display-Black-Cilati", "Helvetica", serif;
-    font-size: 2rem;
+    font-size: 3rem;
     line-height: 80%;
     text-decoration: none;
     padding: 8px 20px 12px;
@@ -258,6 +258,7 @@ h3 {
   justify-content: center;
   h3 {
     color: $pink-2;
+    text-align: center;
   }
 }
 
