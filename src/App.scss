@@ -308,12 +308,29 @@ h3 {
     -webkit-text-stroke-width: 1px;
   }
   h2 {
-    font-size: 3.5rem;
-    line-height: 3.5rem;
+    font-size: 3rem;
+    line-height: 3rem;
+  }
+  h3 {
+    font-size: 3rem;
+    line-height: 3rem;
   }
   .page.home .main {
     margin: 3% 20px 3.5% 20px;
   }
+
+  .main {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .container {
+    padding: 32px 20px 24px 20px;
+    &:last-of-type {
+      padding: 32px 20px 32px 20px;
+    }
+  }
+
   .top-image {
     left: 0;
     right: unset;
@@ -337,7 +354,7 @@ h3 {
 
   .two-up {
     flex-direction: column;
-    div:first-child {
+    .column:first-child {
       margin-right: 0;
     }
   }
@@ -435,6 +452,12 @@ h3 {
   .page.home .main {
     margin: 20px 32px;
   }
+
+  .main {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
   .top-image {
     .caption {
       display: none;
@@ -454,7 +477,7 @@ h3 {
 
   .two-up {
     flex-direction: column;
-    div:first-child {
+    .column:first-child {
       margin-right: 0;
     }
   }
