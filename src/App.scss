@@ -219,6 +219,10 @@ h3 {
         &.wide {
           width: 150px;
         }
+        &.pw {
+          width: 76px;
+          align-items: center;
+        }
       }
     }
     &:last-child {

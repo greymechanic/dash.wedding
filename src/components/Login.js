@@ -20,7 +20,7 @@ function Login() {
           <div className="content">
             <div className="detailsTable">
               <div className="row">
-                <div className="cell label">
+                <div className="cell label pw">
                   <p><b>Password</b></p>
                 </div>
                 <div className="cell detail pw">
