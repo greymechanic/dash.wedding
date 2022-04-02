@@ -35,7 +35,7 @@ function Schedule() {
             </div>
           </div>
           <div className="rsvp">
-            <a href="#" type="button" target="_blank">rsvp</a>
+            <a href="https://pp.events/a8PNLZz0" type="button" target="_blank">rsvp</a>
           </div>
         </section>
       </div>

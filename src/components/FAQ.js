@@ -35,7 +35,7 @@ function FAQ() {
               <div>
                 <h3>what will i eat?</h3>
                 <p>
-                  We will not have a sit-down dinner, but there will be plenty of food and you will not leave hungry! We will have pizzas and salads from <a className="ib" href="https://www.luciasberkeley.com" target="_blank">{"Lucia’s"}</a>, and plenty of snacks throughout the night, as well as a full bar. If you have dietary restrictions, please let us know in your <a className="ib" href="#" target="_blank">RSVP</a>.
+                  We will not have a sit-down dinner, but there will be plenty of food and you will not leave hungry! We will have pizzas and salads from <a className="ib" href="https://www.luciasberkeley.com" target="_blank">{"Lucia’s"}</a>, and plenty of snacks throughout the night, as well as a full bar. If you have dietary restrictions, please let us know in your <a className="ib" href="https://pp.events/a8PNLZz0" target="_blank">RSVP</a>.
                 </p>
               </div>
             </div>

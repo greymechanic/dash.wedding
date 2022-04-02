@@ -45,13 +45,13 @@ function Details() {
                   <p><b>RSVP</b></p>
                 </div>
                 <div className="cell detail">
-                  <p>Please <a href="#" target="_blank">RSVP</a> by May 1</p>
+                  <p>Please <a href="https://pp.events/a8PNLZz0" target="_blank">RSVP</a> by May 1</p>
                 </div>
               </div>
             </div>
           </div>
           <div className="rsvp">
-            <a href="#" type="button" target="_blank">rsvp</a>
+            <a href="https://pp.events/a8PNLZz0" type="button" target="_blank">rsvp</a>
           </div>
         </section>
       </div>
