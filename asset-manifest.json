@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.d010f824.css",
-    "main.js": "/static/js/main.564c43fb.js",
+    "main.css": "/static/css/main.b3463d80.css",
+    "main.js": "/static/js/main.7e532175.js",
     "static/js/787.e37ef122.chunk.js": "/static/js/787.e37ef122.chunk.js",
     "static/media/SpaceMono-Italic.ttf": "/static/media/SpaceMono-Italic.4df1ef9bdef4a75388da.ttf",
     "static/media/SpaceMono-BoldItalic.ttf": "/static/media/SpaceMono-BoldItalic.9ffc8e581ad1c950f687.ttf",
@@ -15,12 +15,12 @@
     "static/media/LyyraExpanded-Black.woff2": "/static/media/LyyraExpanded-Black.dc5cfdca3541960aa4f1.woff2",
     "static/media/woodside-2.jpg": "/static/media/woodside-2.c3f4801338163285faf3.jpg",
     "index.html": "/index.html",
-    "main.d010f824.css.map": "/static/css/main.d010f824.css.map",
-    "main.564c43fb.js.map": "/static/js/main.564c43fb.js.map",
+    "main.b3463d80.css.map": "/static/css/main.b3463d80.css.map",
+    "main.7e532175.js.map": "/static/js/main.7e532175.js.map",
     "787.e37ef122.chunk.js.map": "/static/js/787.e37ef122.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d010f824.css",
-    "static/js/main.564c43fb.js"
+    "static/css/main.b3463d80.css",
+    "static/js/main.7e532175.js"
   ]
 }
