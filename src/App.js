@@ -36,7 +36,7 @@ function App() {
       <LandingPage />
       <Routes>
         <Route 
-          path="/" 
+          path="/"
           element={
             <RequireAuth>
               <Deets/>
@@ -53,7 +53,6 @@ function App() {
 
 function RequireAuth({ children }) {
   let location = useLocation();
-  console.log(location);
   if (!Userfront.tokens.accessToken) {
     // Redirect to the home page
     return <Navigate to="/" state={{ from: location }} replace />;
