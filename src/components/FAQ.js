@@ -3,7 +3,7 @@ import MarqueeReverse from "./MarqueeReverse";
 function FAQ() {
   return (
     <div>
-      <div className="container tinted">
+      <div id="FAQ" className="container tinted">
         <section>
           <h2>F.A.Q.</h2>
           <div className="two-up">

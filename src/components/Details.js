@@ -1,4 +1,5 @@
 import Marquee from "./Marquee";
+import { HashLink } from 'react-router-hash-link';
 
 function Details() {
   return (
@@ -29,7 +30,7 @@ function Details() {
                   <p><b>DRESS</b></p>
                 </div>
                 <div className="cell detail">
-                  <p>Anything goes, <a href="#dress-code">really</a>!</p>
+                  <p>Anything goes, <HashLink smooth to="/#dress-code">really</HashLink>!</p>
                 </div>
               </div>
               <div className="row">
