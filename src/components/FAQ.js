@@ -17,7 +17,7 @@ function FAQ() {
               <div>
                 <h3>when should i rsvp?</h3>
                 <p>
-                  {"We would appreciate if everyone could RSVP by May 1 at the latest. This will give us enough time to plan food and drinks for everyone."}
+                  {"We would appreciate if everyone could "}<a className="ib" href="https://pp.events/a8PNLZz0" target="_blank">RSVP</a>{" by May 1 at the latest. This will give us enough time to plan food and drinks for everyone."}
                 </p>
               </div>
               <div>
