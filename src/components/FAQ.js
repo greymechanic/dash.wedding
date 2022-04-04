@@ -43,7 +43,7 @@ function FAQ() {
               <div>
                 <h3 id="dress-code">what should i wear?</h3>
                 <p>
-                  {"Wear whatever you’re comfortable in. Fancy or casual, it’s up to you. If you really need creative direction, may we offer “garden party chic” or “backyard bonanza” as inspiration? Does that help? No? We truly don’t care what you wear, we’re just excited to celebrate with you. The entire event is outside—it will likely start warm and then get cold as the sun goes down. It’s the Bay Area, so one thing is for sure: you will always need a light jacket. Also, our house is old and there is some uneven ground—wear heels at your own risk!"}
+                  {"Wear whatever you’re comfortable in. Fancy or casual, it’s up to you. If you really need creative direction, may we offer “garden party chic” or “backyard bonanza” as inspiration? Does that help? No? We're so excited to celebrate with you, no matter what you show up wearing! The entire event is outside—it will likely start warm and then get cold as the sun goes down, although we will have some heaters. It’s the Bay Area, so one thing is for sure: you will always need a light jacket. Also, our house is old and there is some uneven ground—wear heels at your own risk!"}
                 </p>
               </div>
               <div>
