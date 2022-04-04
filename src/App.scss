@@ -238,14 +238,14 @@ h3 {
 
 .password {
   font-family: "Mono-Regular", "Courier New", monospace;
-  color: $pink-1;
+  color: $green-1;
   background-color: reset;
   border-color: transparent;
   &:focus-visible {
-    outline: $pink-2 dotted 1px;
+    outline: $green-2 dotted 1px;
   }
   &::placeholder {
-    color: rgba(0, 0, 0, 0.25);
+    color: $green-2;
   }
 }
 
@@ -387,6 +387,7 @@ h3 {
     flex-direction: column;
     .column:first-child {
       margin-right: 0;
+      margin-bottom: 32px;
     }
   }
 
@@ -440,6 +441,7 @@ h3 {
     flex-direction: column;
     div:first-child {
       margin-right: 0;
+      margin-bottom: 32px;
     }
   }
 
