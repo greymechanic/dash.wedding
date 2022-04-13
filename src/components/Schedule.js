@@ -13,7 +13,7 @@ function Schedule() {
                   <p><b>FRIDAY JUNE 3</b></p>
                 </div>
                 <div className="cell detail">
-                  <p><b>8PM:</b> Drinks @ <a href="https://goo.gl/maps/W8miAufyD2CoaMqr5" target="_blank">Skates on the Bay</a></p>
+                  <p><b>8PM:</b> Drinks @ <a href="https://goo.gl/maps/ygE5EvrhguTFN6Rp8" target="_blank">Westbrae Biergarten</a></p>
                 </div>
               </div>
               <div className="row">
