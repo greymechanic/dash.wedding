@@ -23,7 +23,7 @@ function FAQ() {
               <div>
                 <h3>what's the schedule?</h3>
                 <p>
-                  If you are in town on Friday and would like to join us for a pre-wedding drink, we will be meeting at <a className="ib" href="https://goo.gl/maps/ygE5EvrhguTFN6Rp8" target="_blank">Westbrae Biergarten</a>{" at 8pm. On Saturday, please arrive at 4:30pm at our house. The ceremony will start right away, followed by a cocktail party with plenty of food, drinks, and dancing. If you’d rather not spend your hangover alone, we’ll be hosting a casual brunch at "}<a className="ib" href="https://goo.gl/maps/H7yEEogJ2i4WZmRh8" target="_blank">our house</a>{" from 11am–2pm on Sunday so we can gulp down the remaining beers still lying around."}
+                  If you are in town on Friday and would like to join us for a pre-wedding drink, we will be meeting at <a className="ib" href="https://g.page/GilmanBrewingCompany?share" target="_blank">Gilman Brewing Company</a>{" at 7:30pm. On Saturday, please arrive at 4:30pm at our house. The ceremony will start right away, followed by a cocktail party with plenty of food, drinks, and dancing. If you’d rather not spend your hangover alone, we’ll be hosting a casual brunch at "}<a className="ib" href="https://goo.gl/maps/H7yEEogJ2i4WZmRh8" target="_blank">our house</a>{" from 11am–2pm on Sunday so we can gulp down the remaining beers still lying around."}
                 </p>
               </div>
               <div>
@@ -49,7 +49,7 @@ function FAQ() {
               <div>
                 <h3>where should i stay?</h3>
                 <p>
-                  <a href="https://www.kisseloakland.com/" target="_blank"><b>Kissel Hotel</b></a>: This is a brand new hotel in Uptown Oakland, that looks really nice and does not break the bank. This is our #1 reccomendation for the weekend, even though it’s a little farther from our house than the other two. It’s a 20 min drive to our house, and a 10 minute drive to Westbrae Biergarten. There are not a lot of good hotel options near us, so we were happy to see this one open. Plus, there’s an amazing rooftop bar to enjoy!
+                  <a href="https://www.kisseloakland.com/" target="_blank"><b>Kissel Hotel</b></a>: This is a brand new hotel in Uptown Oakland, that looks really nice and does not break the bank. This is our #1 reccomendation for the weekend, even though it’s a little farther from our house than the other two. It’s a 20 min drive to our house, and a 10 minute drive to Gilman Brewing Company. There are not a lot of good hotel options near us, so we were happy to see this one open. Plus, there’s an amazing rooftop bar to enjoy!
                 </p>
                 <p>
                   <a href="https://www.fairmont.com/claremont-berkeley/" target="_blank"><b>Claremont Hotel</b></a>: The Claremont is by far the nicest hotel in Berkeley, and the price shows it. If you want to splurge, this is where to do it. There are incredible views of the entire Bay Area from the property, and many of the rooms. There is a lovely pool and spa, and it's a quick 15 minute drive to our house.
